@@ -232,7 +232,7 @@ The Power BI report contains three major analytical sections.
 
 ### High-Risk Employee Analysis
 
-![High-Risk Employee Analysis](Screenshots/sql%20insights/high%20risk%20employee.png)
+![High-Risk Employee Analysis](Screenshots/sql%20insights/high%20risk%20employees.png)
 
 ### Risk Category Analysis
 
