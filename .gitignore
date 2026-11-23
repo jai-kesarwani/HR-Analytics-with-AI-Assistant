@@ -1,0 +1,19 @@
+# Virtual Environments
+venv/
+.venv/
+*/.venv/
+
+# Secrets & API Keys
+.env
+*/.env
+*.env
+
+# Python & Jupyter Cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS & Editor Junk
+.DS_Store
+Thumbs.db
+.vscode/
